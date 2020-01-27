@@ -11,6 +11,8 @@ Identifying customer segments is beneficial for selecting profitable customers a
 
 
 
+------
+
 [**Customer Segmentation with RFM Analysis**](rfm_analysis_python.ipynb)
 
 In the analysis the dataset of global retail company was examined to identify RFM segments and find patterns in the customer base. The analysis contains:
@@ -20,3 +22,7 @@ In the analysis the dataset of global retail company was examined to identify RF
 * Analysis of size and value of RFM segments
 * Demographic analysis of RFM segments
 * Behavioral analysis of RFM segments
+
+
+
+<a href="https://www.freepik.com/free-photos-vectors/business">Business vector created by pikisuperstar - www.freepik.com</a>
