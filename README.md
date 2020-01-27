@@ -21,11 +21,11 @@ In the analysis the dataset of global retail company was examined to identify RF
 
 * Evaluating distribution of Recency, Frequency and Monetary,
 
-* Analysis of size and value of RFM segments
+* Analysis of size and value of RFM segments,
 
-* Demographic analysis of RFM segments
+* Demographic analysis of RFM segments,
 
-* Behavioral analysis of RFM segments
+* Behavioral analysis of RFM segments.
 
   
 
