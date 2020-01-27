@@ -1,6 +1,7 @@
 # RFM Analysis in Python
 
-!['RFM segments'](img\puzzle.jpg)
+!['RFM segments'](img/puzzle.jpg "RFM segments")
+
 
 
 
